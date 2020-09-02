@@ -7,6 +7,12 @@
     <title>Meu primeiro site no GitHub Pages</title>
 </head>
 <body>
+
     <h1>Eu sou um jovem aprendiz</h1>
+    
+    <h1 Para Títulos, geralmente usa-se as tags de h1 a h5</h1>
+    
+    <p> Para parágrafos, normalmente utiliza a tag p </p>
+    
 </body>
 </html>
